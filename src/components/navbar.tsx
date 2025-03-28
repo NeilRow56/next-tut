@@ -11,6 +11,10 @@ const navLinks = [
     href: '/'
   },
   {
+    name: 'Articles',
+    href: '/articles/breaking-news-123'
+  },
+  {
     name: 'Register',
     href: '/register'
   },
