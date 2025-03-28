@@ -15,17 +15,21 @@ const navLinks = [
     href: '/articles/breaking-news-123'
   },
   {
+    name: 'Order product',
+    href: '/order-product'
+  },
+  {
     name: 'Register',
     href: '/register'
-  },
-  {
-    name: 'Login',
-    href: '/login'
-  },
-  {
-    name: 'Forgot Password',
-    href: '/forgot-password'
   }
+  // {
+  //   name: 'Login',
+  //   href: '/login'
+  // },
+  // {
+  //   name: 'Forgot Password',
+  //   href: '/forgot-password'
+  // }
 ]
 
 export default function Navbar() {
