@@ -1,4 +1,11 @@
 import Link from 'next/link'
+import { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: {
+    absolute: 'Product blog'
+  }
+}
 
 export default function ProductList() {
   const productId = 100
