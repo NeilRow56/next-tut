@@ -19,6 +19,10 @@ const navLinks = [
     href: '/order-product'
   },
   {
+    name: 'Users',
+    href: '/users'
+  },
+  {
     name: 'Register',
     href: '/register'
   }
